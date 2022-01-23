@@ -1,0 +1,8 @@
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Calculadora\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Calculadora\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Calculadora\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Calculadora\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.exe.config
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Calculadora\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Calculadora\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Calculadora\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Calculadora\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.pdb

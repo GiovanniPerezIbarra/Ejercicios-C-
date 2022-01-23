@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f16a5b9d-924a-4f7c-be26-bebfd6c5e5b0": {
+      "ProjectGuid": "f16a5b9d-924a-4f7c-be26-bebfd6c5e5b0",
+      "DisplayName": "IntroduccionCS",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
