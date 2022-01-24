@@ -8,7 +8,7 @@ namespace LINQ
 {
     public class Estado
     {
-        public int idEstado { get; set; }
-        public string nombreEstado { get; set; }
+        public int id { get; set; }
+        public string nombre { get; set; }
     }
 }

@@ -8,10 +8,10 @@ namespace LINQ
 {
     public class Alumnos
     {
-        public int idnombre { get; set; }
+        public int id { get; set; }
         public string nombre { get; set; }
         public decimal calificacion { get; set; }
-        public int idestado { get; set; }
-        public int idestatus { get; set; }
+        public int idEstado { get; set; }
+        public int idEstatus { get; set; }
     }
 }

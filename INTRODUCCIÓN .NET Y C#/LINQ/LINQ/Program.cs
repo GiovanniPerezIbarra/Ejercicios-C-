@@ -11,7 +11,9 @@ namespace LINQ
     {
         static void Main(string[] args)
         {
-
+            OperacionesLINQ operaciones = new OperacionesLINQ();
+            operaciones.Consultas();
+            Console.ReadLine();
         }
     }
 }

@@ -8,10 +8,10 @@ namespace LINQ
 {
     public class ItemISR
     {
-        public decimal limInf { get; set; }
-        public decimal limSup { get; set; }
-        public decimal cuotaFija { get; set; }
-        public decimal porExced { get; set; }
-        public decimal subsidio { get; set; }
+        public decimal LimInf { get; set; }
+        public decimal LimSup { get; set; }
+        public decimal Cuotafija { get; set; }
+        public decimal PorExced { get; set; }
+        public decimal Subsidio { get; set; }
     }
 }
