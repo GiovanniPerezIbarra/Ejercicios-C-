@@ -1,0 +1,8 @@
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Figuras\Figuras\obj\Debug\Figuras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\Figuras\Figuras\obj\Debug\Figuras.pdb
