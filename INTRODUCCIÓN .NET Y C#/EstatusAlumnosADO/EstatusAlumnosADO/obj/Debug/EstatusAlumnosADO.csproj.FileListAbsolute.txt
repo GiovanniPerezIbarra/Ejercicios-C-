@@ -1,0 +1,8 @@
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\EstatusAlumnosADO\EstatusAlumnosADO\bin\Debug\EstatusAlumnosADO.exe.config
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\EstatusAlumnosADO\EstatusAlumnosADO\bin\Debug\EstatusAlumnosADO.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\EstatusAlumnosADO\EstatusAlumnosADO\bin\Debug\EstatusAlumnosADO.pdb
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\EstatusAlumnosADO\EstatusAlumnosADO\obj\Debug\EstatusAlumnosADO.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\EstatusAlumnosADO\EstatusAlumnosADO\obj\Debug\EstatusAlumnosADO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\EstatusAlumnosADO\EstatusAlumnosADO\obj\Debug\EstatusAlumnosADO.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\EstatusAlumnosADO\EstatusAlumnosADO\obj\Debug\EstatusAlumnosADO.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\EstatusAlumnosADO\EstatusAlumnosADO\obj\Debug\EstatusAlumnosADO.pdb
