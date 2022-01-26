@@ -1,0 +1,11 @@
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\HolaWinForms\HolaWinForms\bin\Debug\HolaWinForms.exe.config
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\HolaWinForms\HolaWinForms\bin\Debug\HolaWinForms.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\HolaWinForms\HolaWinForms\bin\Debug\HolaWinForms.pdb
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\HolaWinForms\HolaWinForms\obj\Debug\HolaWinForms.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\HolaWinForms\HolaWinForms\obj\Debug\HolaWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\HolaWinForms\HolaWinForms\obj\Debug\HolaWinForms.Form1.resources
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\HolaWinForms\HolaWinForms\obj\Debug\HolaWinForms.Properties.Resources.resources
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\HolaWinForms\HolaWinForms\obj\Debug\HolaWinForms.csproj.GenerateResource.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\HolaWinForms\HolaWinForms\obj\Debug\HolaWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\HolaWinForms\HolaWinForms\obj\Debug\HolaWinForms.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\HolaWinForms\HolaWinForms\obj\Debug\HolaWinForms.pdb
