@@ -17,7 +17,6 @@ namespace Presentacion.Alumnos
             if (!IsPostBack)
             {
                 string id = Request.QueryString["id"];
-                id = id == null ? "14" : id;
                 Alumno alumno = nalumno.Consultar(int.Parse(id));
                 idlbl.Text = alumno.idAlumnos.ToString();
                 nombrelbl.Text = alumno.nombre;
@@ -36,6 +35,8 @@ namespace Presentacion.Alumnos
         {
             int id = Convert.ToInt32(idlbl.Text);
             nalumno.Eliminar(id);
+            Response.Write("<script>alert('Eliminado exitosamente.');" +
+                           "window.location.href='Index'</script>");
         }
 
     }

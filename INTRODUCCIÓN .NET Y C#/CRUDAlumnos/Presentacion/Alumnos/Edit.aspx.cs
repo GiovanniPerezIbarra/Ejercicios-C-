@@ -23,7 +23,6 @@ namespace Presentacion.Alumnos
                 llenarEstados();
                 llenarEstatus();
                 string id = Request.QueryString["id"];
-                id = id == null ? "14" : id;
                 NAlumno nalumno = new NAlumno();
                 Alumno alumno = nalumno.Consultar(int.Parse(id));
                 idbox.Text = alumno.idAlumnos.ToString();
@@ -34,6 +33,7 @@ namespace Presentacion.Alumnos
                 curpbox.Text = alumno.curp;
                 mailbox.Text = alumno.correo;
                 phonebox.Text = alumno.telefono;
+                sueldobox.Text = alumno.sueldo.ToString();
                 estadolist.Text = alumno.idEstadoOrigen.ToString();
                 estatuslist.Text = alumno.idEstatus.ToString();
             }
@@ -90,7 +90,7 @@ namespace Presentacion.Alumnos
                     telefono = phonebox.Text,
                     fechaNacimiento = Convert.ToDateTime(fnbox.Text),
                     curp = curpbox.Text,
-                    sueldo = 0,
+                    sueldo = Convert.ToDecimal(sueldobox.Text),
                     idEstadoOrigen = Convert.ToInt32(estadolist.SelectedValue),
                     idEstatus = Convert.ToInt16(estatuslist.SelectedValue),
                 });
@@ -98,6 +98,8 @@ namespace Presentacion.Alumnos
             NAlumno nalumno = new NAlumno();
             Alumno obj = lstalumnos.Find(x => x.idAlumnos == Convert.ToInt32(idbox.Text));
             nalumno.Actualizar(obj);
+            Response.Write("<script>alert('Actualizado exitosamente.');" +
+                           "window.location.href='Index'</script>");
         }
     }
 }

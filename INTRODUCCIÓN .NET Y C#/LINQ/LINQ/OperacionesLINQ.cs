@@ -138,7 +138,6 @@ namespace LINQ
                     $"porcentaje: {itemisr.porExce}, subsidio: {itemisr.subsidio}," +
                     $" impuesto a pagar: {itemisr.Impuesto}");
             }
-
         }
     }
 }

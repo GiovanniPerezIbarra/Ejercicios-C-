@@ -13,7 +13,7 @@ namespace MenuGeneral
         decimal[,] CargarTabla(string file)
         {
             Console.WriteLine("\n");
-            StreamReader sr = new StreamReader(@"C:\Users\Tichs\Desktop\" + file + ".csv");
+            StreamReader sr = new StreamReader(@"C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCIÓN .NET Y C#\MenuGeneral\MenuGeneral\" + file + ".csv");
             string csv = sr.ReadToEnd();
             string[] campos = new string[105];
             campos = csv.Split(',');

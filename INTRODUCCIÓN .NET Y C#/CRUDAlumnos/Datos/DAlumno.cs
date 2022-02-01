@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,7 +15,7 @@ namespace Datos
     {
         string conection = ConfigurationManager.ConnectionStrings["LocalConnection"].ConnectionString;
         List<Alumno> _listAlumno;
-        string query;
+        List<TablaISR> _listISR;
         SqlCommand comando;
         public List<Alumno> Consultar()
         {
@@ -49,8 +50,9 @@ namespace Datos
                     alumno.telefono = reader.GetString(5);
                     alumno.fechaNacimiento = reader.GetDateTime(6);
                     alumno.curp = reader.GetString(7);
-                    alumno.idEstadoOrigen = reader.GetInt32(8);
-                    alumno.idEstatus = reader.GetInt16(9);
+                    alumno.sueldo = reader.GetDecimal(8);
+                    alumno.idEstadoOrigen = reader.GetInt32(9);
+                    alumno.idEstatus = reader.GetInt16(10);
                 }
                 con.Close();
             }
@@ -109,6 +111,30 @@ namespace Datos
                 con.Open();
                 comando.ExecuteNonQuery();
                 con.Close();
+            }
+        }
+        public List<TablaISR> ConsultarTablaISR()
+        {
+            using (SqlConnection con = new SqlConnection(conection))
+            {
+                comando = new SqlCommand("consultarTodosISR", con);
+                comando.CommandType = CommandType.StoredProcedure;
+                con.Open();
+                SqlDataReader reader = comando.ExecuteReader();
+                _listISR = new List<TablaISR>();
+                while (reader.Read())
+                {
+                    _listISR.Add(new TablaISR
+                    {
+                        límiteInferior = reader.GetDecimal(1),
+                        límiteSuperior = reader.GetDecimal(2),
+                        cuotaFija = reader.GetDecimal(3),
+                        excedente = reader.GetDecimal(4),
+                        subsidio = reader.GetDecimal(5),
+                    });
+                }        
+                con.Close();
+                return _listISR;
             }
         }
     }

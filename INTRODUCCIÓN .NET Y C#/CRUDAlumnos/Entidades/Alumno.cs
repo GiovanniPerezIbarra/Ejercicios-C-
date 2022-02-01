@@ -16,7 +16,7 @@ namespace Entidades
         public string telefono { get; set; }
         public DateTime fechaNacimiento { get; set; }
         public string curp { get; set; }
-        public decimal? sueldo { get; set; }
+        public decimal sueldo { get; set; }
         public int idEstadoOrigen { get; set; }
         public int idEstatus { get; set; }
     }

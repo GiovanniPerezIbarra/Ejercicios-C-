@@ -76,7 +76,7 @@ namespace Presentacion.Alumnos
                     telefono = phonebox.Text,
                     fechaNacimiento = Convert.ToDateTime(fnbox.Text),
                     curp = curpbox.Text,
-                    sueldo = 0,
+                    sueldo = Convert.ToDecimal(sueldobox.Text),
                     idEstadoOrigen = Convert.ToInt32(estadolist.SelectedValue),
                     idEstatus = Convert.ToInt16(estatuslist.SelectedValue),
                 });
@@ -84,6 +84,8 @@ namespace Presentacion.Alumnos
             NAlumno nalumno = new NAlumno();
             Alumno obj = lstalumnos.Find(x => x.idAlumnos == 0);
             nalumno.Agregar(obj);
+            Response.Write("<script>alert('Agregado exitosamente.');" +
+                           "window.location.href='Index'</script>");
         }
     }
 }

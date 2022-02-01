@@ -11,12 +11,12 @@ namespace Presentacion.Alumnos
 {
     public partial class Details : System.Web.UI.Page
     {
+        NAlumno nuevo = new NAlumno();
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
             {
                 string id = Request.QueryString["id"];
-                id = id == null ? "14" : id;
                 NAlumno nalumno = new NAlumno();
                 Alumno alumno = nalumno.Consultar(int.Parse(id));
                 idlbl.Text = alumno.idAlumnos.ToString();
@@ -29,12 +29,17 @@ namespace Presentacion.Alumnos
                 phonelbl.Text = alumno.telefono;
                 estadolbl.Text = alumno.idEstadoOrigen.ToString();
                 estatuslbl.Text = alumno.idEstatus.ToString();
-
-                //Alumno Consultar(int id)
-                //{
-
-                //}
             }
+        }
+        protected void imssBtn_Click(object sender, EventArgs e)
+        {
+            AportacionesIMSS aportaciones = nuevo.CalcularIMSS(Convert.ToInt32(idlbl.Text));
+            m1.Text = aportaciones.enfermedadMaternidad.ToString();
+            m2.Text = aportaciones.invalidezVida.ToString();
+            m3.Text = aportaciones.retiro.ToString();
+            m4.Text = aportaciones.cesantía.ToString();
+            m5.Text = aportaciones.infonavit.ToString();
+            Modal.Show();
         }
     }
 }

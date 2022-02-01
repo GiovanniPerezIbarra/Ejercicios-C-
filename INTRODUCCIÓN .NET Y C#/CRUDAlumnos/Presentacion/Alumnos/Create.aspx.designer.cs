@@ -24,6 +24,15 @@ namespace Presentacion.Alumnos
         protected global::System.Web.UI.WebControls.TextBox nombrebox;
 
         /// <summary>
+        /// Control requierenombre.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator requierenombre;
+
+        /// <summary>
         /// Control pabox.
         /// </summary>
         /// <remarks>
@@ -31,6 +40,15 @@ namespace Presentacion.Alumnos
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox pabox;
+
+        /// <summary>
+        /// Control requiereprimerapellido.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator requiereprimerapellido;
 
         /// <summary>
         /// Control sabox.
@@ -51,6 +69,15 @@ namespace Presentacion.Alumnos
         protected global::System.Web.UI.WebControls.TextBox mailbox;
 
         /// <summary>
+        /// Control mailrequerido.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator mailrequerido;
+
+        /// <summary>
         /// Control phonebox.
         /// </summary>
         /// <remarks>
@@ -58,6 +85,15 @@ namespace Presentacion.Alumnos
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox phonebox;
+
+        /// <summary>
+        /// Control phonevalidar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator phonevalidar;
 
         /// <summary>
         /// Control fnbox.
@@ -69,6 +105,15 @@ namespace Presentacion.Alumnos
         protected global::System.Web.UI.WebControls.TextBox fnbox;
 
         /// <summary>
+        /// Control validafecha.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RangeValidator validafecha;
+
+        /// <summary>
         /// Control curpbox.
         /// </summary>
         /// <remarks>
@@ -76,6 +121,51 @@ namespace Presentacion.Alumnos
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox curpbox;
+
+        /// <summary>
+        /// Control curpvalidar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator curpvalidar;
+
+        /// <summary>
+        /// Control compararbox.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CustomValidator compararbox;
+
+        /// <summary>
+        /// Control sueldobox.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox sueldobox;
+
+        /// <summary>
+        /// Control requieresueldo.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator requieresueldo;
+
+        /// <summary>
+        /// Control mayoracero.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator mayoracero;
 
         /// <summary>
         /// Control estadolist.
@@ -103,5 +193,14 @@ namespace Presentacion.Alumnos
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button guardarBtn;
+
+        /// <summary>
+        /// Control compararfechas.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CustomValidator compararfechas;
     }
 }
