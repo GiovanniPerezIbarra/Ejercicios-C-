@@ -26,6 +26,23 @@ namespace Datos
                 con.Open();
                 SqlDataReader reader = comando.ExecuteReader();
                 _listAlumno = new List<Alumno>();
+                while (reader.Read())
+                {
+                    _listAlumno.Add(new Alumno
+                    {
+                        idAlumnos = reader.GetInt32(0),
+                        nombre = reader.GetString(1),
+                        primerApellido = reader.GetString(2),
+                        segundoApellido = reader.GetString(3),
+                        correo = reader.GetString(4),
+                        telefono = reader.GetString(5),
+                        fechaNacimiento = reader.GetDateTime(6),
+                        curp = reader.GetString(7),
+                        sueldo = reader.GetDecimal(8),
+                        idEstadoOrigen = reader.GetInt32(9),
+                        idEstatus = reader.GetInt16(10),
+                    });
+                }
                 con.Close();
             }
             return _listAlumno;

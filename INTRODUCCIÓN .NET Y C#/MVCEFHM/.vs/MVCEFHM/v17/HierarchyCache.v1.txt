@@ -1,0 +1,230 @@
+﻿++Solución "MVCEFHM" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:MVCEFHM.sln
+++MVCEFHM
+i:{00000000-0000-0000-0000-000000000000}:MVCEFHM
+++Properties
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\properties\
+++Referencias
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++Antlr3.Runtime
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++EntityFramework
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++EntityFramework.SqlServer
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++Microsoft.CSharp
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++Microsoft.Web.Infrastructure
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++Newtonsoft.Json
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.ComponentModel.DataAnnotations
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Configuration
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Core
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Data
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Data.DataSetExtensions
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Drawing
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.EnterpriseServices
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Net.Http
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Net.Http.WebRequest
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Runtime.Serialization
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Security
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.Abstractions
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.ApplicationServices
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.DynamicData
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.Entity
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.Extensions
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.Helpers
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.Mvc
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.Optimization
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.Razor
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.Routing
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.Services
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.WebPages
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.WebPages.Deployment
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Web.WebPages.Razor
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Xml
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++System.Xml.Linq
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++WebGrease
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:
+++App_Data
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\app_data\
+++App_Start
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\app_start\
+++Content
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\content\
+++bootstrap-theme.css
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\content\bootstrap.css
+++bootstrap.css.map
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\content\bootstrap.css.map
+++bootstrap.min.css
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\content\bootstrap.min.css.map
+++Site.css
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\content\site.css
+++Controllers
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\controllers\
+++AlumnoController.cs
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\controllers\alumnocontroller.cs
+++HomeController.cs
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\controllers\homecontroller.cs
+++fonts
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\fonts\
+++Models
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\models\
+++Tich.edmx
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\models\tich.edmx
+++Tich.Context.tt
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\models\tich.context.tt
+++Tich.Context.cs
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\models\tich.context.cs
+++Tich.Designer.cs
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\models\tich.designer.cs
+++Tich.edmx.diagram
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\models\tich.edmx.diagram
+++Tich.tt
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\models\tich.tt
+++Alumnos.cs
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\models\alumnos.cs
+++Estados.cs
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\models\estados.cs
+++EstatusAlumnos.cs
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\models\estatusalumnos.cs
+++Tich.cs
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\models\tich.cs
+++Scripts
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\
+++bootstrap.js
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\bootstrap.js
+++bootstrap.min.js
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\scripts\modernizr-2.8.3.js
+++Views
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\
+++Alumno
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\alumno\
+++Create.cshtml
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\alumno\create.cshtml
+++Delete.cshtml
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\alumno\delete.cshtml
+++Details.cshtml
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\alumno\details.cshtml
+++Edit.cshtml
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\alumno\edit.cshtml
+++Index.cshtml
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\alumno\index.cshtml
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\home\index.cshtml
+++Home
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\home\
+++Shared
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\shared\
+++_ViewStart.cshtml
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\_viewstart.cshtml
+++Web.config
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\web.config
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\web.config
+++favicon.ico
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\favicon.ico
+++Global.asax
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\global.asax
+++packages.config
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\packages.config
+++AssemblyInfo.cs
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\properties\assemblyinfo.cs
+++BundleConfig.cs
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\app_start\routeconfig.cs
+++glyphicons-halflings-regular.eot
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\fonts\glyphicons-halflings-regular.woff2
+++About.cshtml
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\home\about.cshtml
+++Contact.cshtml
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\home\contact.cshtml
+++_Layout.cshtml
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\shared\_layout.cshtml
+++Error.cshtml
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\views\shared\error.cshtml
+++Global.asax.cs
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\global.asax.cs
+++Web.Debug.config
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\web.debug.config
+++Web.Release.config
+i:{8694df0a-f5bd-4f86-aa2f-192a0cd900e9}:c:\users\tichs\documents\desarrollador .net\introducción .net y c#\mvcefhm\mvcefhm\web.release.config

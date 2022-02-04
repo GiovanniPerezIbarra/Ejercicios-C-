@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "HolaMundo";
+}
+
+<h2>Bienvenido</h2>
+<p>Hoy es: @DateTime.Now</p>
+
+@{ 
+    var saludos = "";
+    var horadeldia = DateTime.Now.Hour;
+    if(horadeldia > 5 && horadeldia < 12)
+    {
+        saludos = "Buenos días";
+    }
+    if(horadeldia > 1 && horadeldia < 19)
+    {
+        saludos = "Buenas tardes";
+    }
+    if(horadeldia > 19 && horadeldia < 4)
+    {
+        saludos = "Buenas noches";
+    }
+<p>@saludos</p>
+}
+
+<p>Url: @Request.Url</p>
+<p>Filepath: @Request.FilePath</p>
+<p>Path físico del recurso: @Request.PhysicalPath</p>
+<p>Request type: @Request.RequestType</p>
