@@ -26,9 +26,21 @@ namespace Presentacion.Controllers
             Alumnos modelo = con.Consultar(id);
             return View(modelo);
         }
+        public ActionResult AportacionesIMSS(int id)
+        {
+            NAlumno con = new NAlumno();
+            AportacionesIMSS modelo = con.CalcularIMMS(id);
+            return PartialView(modelo);
+        }
+        public ActionResult _TablaISR(int id)
+        {
+            NAlumno con = new NAlumno();
+            TablaISR modelo = con.CalcularISR(id);
+            return PartialView(modelo);
+        }
 
-            // GET: Alumno/Create
-            public ActionResult Create()
+        // GET: Alumno/Create
+        public ActionResult Create()
         {
             NEstado est = new NEstado();
             NEstatusAlumno estt = new NEstatusAlumno();
